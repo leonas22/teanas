@@ -1,0 +1,22 @@
+{
+  "name": "crypto-token-transactions",
+  "version": "1.0.0",
+  "description": "Program untuk mengelola transaksi token ERC-20 dengan interval dan jumlah acak.",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "dependencies": {
+    "chalk": "^4.1.2",
+    "dotenv": "^16.0.3",
+    "ethers": "^6.0.0"
+  },
+  "keywords": [
+    "crypto",
+    "erc-20",
+    "ethers",
+    "token-transaction"
+  ],
+  "author": "Developer",
+  "license": "ISC"
+}
